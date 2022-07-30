@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="accessibility_service_label">Activity Tracker</string>
+    <string name="accessibility_service_description">Please turn on Accessibility to track the open Activity</string>
+</resources>

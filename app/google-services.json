@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85367517395",
+    "project_id": "activity-tracker-c3c3b",
+    "storage_bucket": "activity-tracker-c3c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85367517395:android:6d1d3c8ac8e76c4bae6426",
+        "android_client_info": {
+          "package_name": "com.panjacreation.activitytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85367517395-a00fuecdligii016lncc6d6thtvelbin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiJOh95shY2hlMI1V1z2ppZijWkjEK0lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85367517395-a00fuecdligii016lncc6d6thtvelbin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
